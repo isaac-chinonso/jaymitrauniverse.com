@@ -35,8 +35,8 @@
         <div class="container">
             <nav class="navbar navbar-expand-lg p-lg-0">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="fa fa-bars"></span>
-				</button>
+                    <span class="fa fa-bars"></span>
+                </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="nav navbar-nav ml-auto">
                         <li>
@@ -57,7 +57,7 @@
                 <div class="banner-content-text" align="center">
                     <h1 class="text-capitalize"><span class="d-sm-block">Gillian Mitra</span></h1>
                     <h2 class="text-capitalize text-white"><span class="d-sm-block">(1943-2021)</span></h2>
-                    <h4 class="text-capitalize text-white"><span class="d-sm-block">In Memoriam</span></h4>
+                    <h4 class="text-capitalize text-white"><span class="d-sm-block">My Life, My Muse, My Reason for Being</span></h4>
                 </div>
             </div>
         </div>
@@ -84,7 +84,7 @@
                     <div class="col-xl-6">
                         <div class="about-politican">
                             <div class="about-qoute">
-                                <h3 class="text-center"><i>Gill. </i></h3>
+                                <h3 class="text-center">A Tribute </h3>
                                 <p style="font-size:18px;text-align: center;line-height: 50px;">You are our ocean, wild or pacific. <br>Our sky, rain or blue.<br> Our wind, lilting breeze or storm.<br> Our stars, glittering galaxy or lamps in the darkness.<br> Our earth, rugged or moist with love.<br> Rwyt ti yma
                                     o hyd.<br> “Jibono Moroner Shimana Charaye”,<br> We live in your embrace.<br><i>Daniel and Jayanta Mitra, 2021</i>
                                 </p>
@@ -96,23 +96,12 @@
         </div>
     </section>
     <!-- end about section  -->
-    <!-- start politician-qoute -->
-    <section class="polician-qoute-section">
-        <div class="section-overlay section-padding-140">
-            <div class="container">
-                <div class="qoute text-center">
-                    <h4>Freedom, flower power, and always that unquenchable<br><br> zest for life.</h4>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- end politician-qoute -->
-
 
     <!-- start campaign-program section -->
     <section class="campaign-program-section section-bg-color">
-        <div class="section-padding-140">
+        <div class="section-padding-100">
             <div class="container">
+                <h3 class="text-center">At the Beginning </h3><br>
                 <div class="section-wrapper">
                     <div class="campaign-list">
                         <div class="campaign-item">
@@ -168,10 +157,22 @@
         </div>
     </section>
     <!-- end campaign-program section -->
+    <!-- start politician-qoute -->
+    <section class="polician-qoute-section">
+        <div class="section-overlay section-padding-140">
+            <div class="container">
+                <div class="qoute text-center">
+                    <h4>Freedom, flower power, and always that unquenchable<br><br> zest for life.</h4>
+                </div>
+            </div>
+        </div>
+    </section><br><br><br><br>
+    <!-- end politician-qoute -->
     <!-- start urgent-causes section -->
     <section class="urgent-causes-section">
         <div class="section-overlay section-padding-140">
             <div class="container">
+                <h3 class="text-center text-white">Gill Professional Life </h3><br>
                 <div class="section-wrapper row">
                     <div class="col-xl-6">
                         <div class="urgent-cause-image">
@@ -197,88 +198,18 @@
 
 
     <!-- start our statement section  -->
-    <section class="our-statement-section section-padding-140 section-bg-color">
+    <section class="our-statement-section section-padding-100 section-bg-color">
         <div class="container">
             <div class="section-heading">
-                <h2>Gill</h2>
+                <h2>Family and Friendship</h2>
                 <p>Gill had a great capacity for friendship and giving and was widely appreciated and much loved wherever she went. Gill lit a torch for 40 years for the United Nations family of hers, a lamp of joy and loving, that will not fade.</p>
-            </div>
-            <div class="section-wrapper">
-                <div class="ourstatement">
-                    <div class="ourstatement-container">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="statement-item">
-                                    <div class="statement-thumb">
-                                        <img src="asset/images/homepage5/statement/01.jpg" alt="thumb">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="statement-item">
-                                    <div class="statement-thumb">
-                                        <img src="asset/images/homepage5/statement/04.jpg" alt="thumb">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="statement-item">
-                                    <div class="statement-thumb">
-                                        <img src="asset/images/homepage5/statement/07.jpg" alt="thumb">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="statement-item">
-                                    <div class="statement-thumb">
-                                        <img src="asset/images/homepage5/statement/08.jpg" alt="thumb">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="statement-item">
-                                    <div class="statement-thumb">
-                                        <img src="asset/images/homepage5/statement/02.jpg" alt="thumb">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="statement-item">
-                                    <div class="statement-thumb">
-                                        <img src="asset/images/homepage5/statement/03.jpg" alt="thumb">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="statement-item">
-                                    <div class="statement-thumb">
-                                        <img src="asset/images/homepage5/statement/05.jpg" alt="thumb">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="statement-item">
-                                    <div class="statement-thumb">
-                                        <img src="asset/images/homepage5/statement/06.jpg" alt="thumb">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-controller swiper-controller-button-left">
-                        <i class="fa fa-angle-left"></i>
-                    </div>
-                    <div class="swiper-controller swiper-controller-button-right">
-                        <i class="fa fa-angle-right"></i>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
     <!-- end latest news section  -->
 
     <!-- start about us section  -->
-    <section class="about-us-section section-padding-140">
+    <section class="about-us-section section-padding-100">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -292,7 +223,7 @@
                             <div class="tab-content" id="nav-tabContent">
                                 <div class="tab-pane fade show active" id="mission" role="tabpanel" aria-labelledby="mission-tab">
                                     <p style="font-size: 18px;text-align:justify;line-height:35px;">In 1980 she met Jay (Mitra) – now a Professor at the University of Essex – and they were married in 1982. But theirs was a unique marriage of three, for with Gill came Daniel, and they all married as a family. Together
-                                        they found their second home in India (Jay’s place of birth) and much pleasure in getting to know his family and friends
+                                        they found their second home in India (Jay’s place of birth) and much pleasure in getting to know his family and friends.
                                     </p>
                                 </div>
                             </div>
@@ -303,6 +234,112 @@
         </div>
     </section>
     <!-- end about us section  -->
+
+    <!-- start campaign-images section -->
+    <section class="campaign-images-section section-padding-100">
+        <div class="container">
+
+            <div class="section-wrapper">
+                <div class="campaign-images row justify-content-center">
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/03.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/03.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/04.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/04.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/05.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/05.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/12.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/12.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/02.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/02.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/07.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/07.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/06.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/06.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/09.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/09.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/11.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/11.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/14.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/14.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/13.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/13.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/15.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/15.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/10.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/10.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/08.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/08.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/campaign-images/01.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/01.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/statement/01.jpg" data-rel="lightcase"><img src="asset/images/homepage5/statement/01.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/statement/04.jpg" data-rel="lightcase"><img src="asset/images/homepage5/statement/04.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <div class="campaign-thumb">
+                            <a href="asset/images/homepage5/statement/07.jpg" data-rel="lightcase"><img src="asset/images/homepage5/statement/07.jpg" alt="campaign-image"></a>
+                        </div>
+                    </div>
+                    
+
+
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end campaign-images section -->
 
     <!-- start neta-info-section -->
     <section class="neta-info-section style2">
@@ -346,7 +383,7 @@
         <div class="section-padding-140">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
+                <div class="col-lg-6">
                         <div class="gallery">
                             <ul class="gallery-list">
                                 <li>
@@ -383,6 +420,8 @@
                             </p>
                         </div>
                     </div>
+                    
+
                 </div>
             </div>
         </div>
@@ -394,18 +433,13 @@
         <div class="section-overlay section-padding-140">
             <div class="container">
                 <div class="section-wrapper row">
-                    <div class="col-xl-6">
-                        <div class="urgent-cause-image">
-                            <img src="asset/images/homepage6/urgent-cause/02.jpg" alt="urgent-cause" class="w-100 img-thumbnail">
-                        </div>
-                    </div>
-                    <div class="col-xl-6">
+                    <div class="col-xl-12">
                         <div class="urgent-cause-content mt-5 mt-xl-0">
-                            <h4 class="text-white">Dearest Mum, Dearest Gill, On this your birthday.</h4><br>
-                            <p style="font-size: 18px;text-align:justify;line-height:35px;">
+                            <h4 class="text-white text-center">Dearest Mum, Dearest Gill, On this your birthday.</h4><br>
+                            <p class="text-center" style="font-size: 18px;text-align:justify;line-height:35px;">
                                 In you lies all our faith. In your loving our making. To you, whatever love there was, whatever love there is, whatever love will always be. Paid byth â'n gadael, Never let you go. Ananta Prem, Love eternal. We are You.
                             </p>
-                            <p style="font-size: 18px;text-align:justify;line-height:35px;">Daniel and Jayanta Mitra<br> 26 September 2021
+                            <p class="text-center" style="font-size: 18px;text-align:justify;line-height:35px;">Daniel and Jayanta Mitra<br> 26 September 2021
                             </p>
                         </div>
                     </div>
@@ -416,95 +450,7 @@
     <!-- end urgent-causes section -->
 
 
-    <!-- start campaign-images section -->
-    <section class="campaign-images-section section-padding-140">
-        <div class="container">
-            <div class="section-heading">
-                <h2>Photos of Gill</h2>
-            </div>
 
-            <div class="section-wrapper">
-                <div class="campaign-images row justify-content-center">
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/01.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/01.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/02.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/02.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/03.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/03.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/04.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/04.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/05.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/05.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/06.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/06.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/07.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/07.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/08.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/08.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/09.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/09.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/07.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/10.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/08.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/11.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/09.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/12.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/07.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/13.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/08.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/14.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="campaign-thumb">
-                            <a href="asset/images/homepage5/campaign-images/09.jpg" data-rel="lightcase"><img src="asset/images/homepage5/campaign-images/15.jpg" alt="campaign-image"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- end campaign-images section -->
 
 
     <!-- start footer section -->
